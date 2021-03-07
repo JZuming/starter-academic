@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Zu-Ming Jiang # Website name
-baseurl: 'https://zuming.jiang/' # Website URL
+baseurl: 'https://zuming-jiang.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
