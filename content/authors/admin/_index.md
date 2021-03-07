@@ -1,7 +1,7 @@
 ---
 title: Zu-Ming Jiang
 role: 3rd Year Master Student
-avatar_filename: dog_cut.jpeg
+avatar_filename: avastar.jpg
 bio: My research interests include fuzzing, program analysis and system reliablity.
 interests:
   - Fuzzing
