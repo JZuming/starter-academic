@@ -1,7 +1,7 @@
 ---
 title: Zu-Ming Jiang
 role: 3rd Year Master Student
-avatar_filename: ""
+avatar_filename: dog_cut.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
