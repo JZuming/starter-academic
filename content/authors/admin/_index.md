@@ -28,15 +28,12 @@ organizations:
     url: https://www.tsinghua.edu.cn/en/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Computer Technology
+      institution: Tsinghua University
+      year: 2021
+    - course: BEng in n Electrical Engineering and Automation
+      institution: Zhejiang University
+      year: 2021
 email: ""
 superuser: true
 highlight_name: false
