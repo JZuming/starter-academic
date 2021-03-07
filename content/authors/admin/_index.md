@@ -11,18 +11,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: Tsinghua University
     url: https://www.tsinghua.edu.cn/en/
@@ -33,7 +27,7 @@ education:
       year: 2021
     - course: BEng in n Electrical Engineering and Automation
       institution: Zhejiang University
-      year: 2021
+      year: 2018
 email: ""
 superuser: true
 highlight_name: false
